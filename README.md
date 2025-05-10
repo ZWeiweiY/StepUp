@@ -2,7 +2,7 @@
 # 🏆 StepUp - Hygiene Hero Cup 🏆
 
 **A motion-driven educational game empowering youth through play.**  
-Created by Team StepUp @ Carnegie Mellon University’s Entertainment Technology Center, in collaboration with the [World Shoe Fund](https://projects.etc.cmu.edu/step-up/about/).
+Created by [Team StepUp](https://projects.etc.cmu.edu/step-up/about/) @ Carnegie Mellon University’s Entertainment Technology Center, in collaboration with the [World Shoe Fund](https://www.worldshoefund.org/).
 
 ---
 
