@@ -136,9 +136,12 @@ Assets/
 
 ## 🔗 Learn More
 
-🌐 [Project Website](https://projects.etc.cmu.edu/step-up)  
+🌐 [Project Website](https://projects.etc.cmu.edu/step-up) 
+
 🎓 [Carnegie Mellon University - ETC Press](https://www.etc.cmu.edu/blog/stepup-world-shoe-fund/)
+
 🌉 [Hot Metal Campus Press](https://www.hotmetalcampus.com/news-research/stepping-toward-change-stepup-amp-the-world-shoe-fund)
+
 👣 [World Shoe Fund](https://www.worldshoefund.org/)
 
 ---
