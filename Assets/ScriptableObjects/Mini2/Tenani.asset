@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f35ea5c8101d89e4d907c74745a2ce20, type: 3}
+  m_Name: Tenani
+  m_EditorClassIdentifier: 
+  bacteriaName: Tenani
+  value: 1
+  prefab: {fileID: 5012618183465837179, guid: afba06643785c9540816ca85ce00136d, type: 3}
