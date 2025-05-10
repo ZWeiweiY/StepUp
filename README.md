@@ -12,7 +12,7 @@ Created by [Team StepUp](https://projects.etc.cmu.edu/step-up) @ Carnegie Mellon
 
 This game was developed during a semester-long project with a team of six graduate students, and I served as the **sole programmer** responsible for every gameplay system, feature, and technical decision.
 
-Explore the full project here: [projects.etc.cmu.edu/step-up](https://projects.etc.cmu.edu/step-up/about)
+Explore the full project [here](https://projects.etc.cmu.edu/step-up/about)
 
 ---
 
@@ -137,7 +137,8 @@ Assets/
 ## 🔗 Learn More
 
 🌐 [Project Website](https://projects.etc.cmu.edu/step-up)  
-🎓 [Carnegie Mellon University - ETC](https://www.etc.cmu.edu/blog/projects/stepup/)  
+🎓 [Carnegie Mellon University - ETC Press](https://www.etc.cmu.edu/blog/stepup-world-shoe-fund/)
+🌉 [Hot Metal Campus Press](https://www.hotmetalcampus.com/news-research/stepping-toward-change-stepup-amp-the-world-shoe-fund)
 👣 [World Shoe Fund](https://www.worldshoefund.org/)
 
 ---
