@@ -84,7 +84,7 @@ View our:
 
 ---
 
-## 👨‍💻 About the Developer
+## 👨‍💻 About Me
 
 This project was personally meaningful to me as the **sole engineer** on the team. Every system, from physics to UI, was built with scalability, iteration speed, and future extensibility in mind. I used this opportunity to sharpen my skills in:
 - Gameplay architecture
@@ -130,7 +130,7 @@ Assets/
 
 - The **World Shoe Fund** for their inspiring mission and partnership
 - CMU ETC faculty for guidance and playtesting support
-- All the kids who played our game—you made it worth building 🇬🇭
+- All the kids who played our game—you made it worth building 👶🏿
 
 ---
 
