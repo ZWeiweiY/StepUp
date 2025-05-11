@@ -2,7 +2,7 @@
 # 🏆 StepUp - Hygiene Hero Cup 🏆
 
 **A motion-driven educational game empowering hygiene through play.**  
-Created by [Team StepUp](https://projects.etc.cmu.edu/step-up) @ Carnegie Mellon University’s Entertainment Technology Center, in collaboration with the [World Shoe Fund](https://www.worldshoefund.org/).
+Created by [**Team StepUp**](https://projects.etc.cmu.edu/step-up) @ Carnegie Mellon University’s Entertainment Technology Center, in collaboration with the [**World Shoe Fund**](https://www.worldshoefund.org/).
 
 ---
 
@@ -79,8 +79,8 @@ StepUp’s mission goes beyond entertainment. It’s a partnership with the [**W
 
 View our:
 - [🎥 Final Trailer](https://projects.etc.cmu.edu/step-up/media/)
-- 📜 Poster & Half-Sheet
-- 📝 Weekly Development Blog
+- [📜 Poster & Half-Sheet](https://projects.etc.cmu.edu/step-up/media/)
+- [📝 Weekly Development Blog](https://projects.etc.cmu.edu/step-up/blog/)
 
 ---
 
@@ -136,13 +136,13 @@ Assets/
 
 ## 🔗 Learn More
 
-🌐 [Project Website](https://projects.etc.cmu.edu/step-up) 
+🌐 [**Project Website**](https://projects.etc.cmu.edu/step-up) 
 
-🎓 [Carnegie Mellon University - ETC Press](https://www.etc.cmu.edu/blog/stepup-world-shoe-fund/)
+🎓 [**Carnegie Mellon University - ETC Press**](https://www.etc.cmu.edu/blog/stepup-world-shoe-fund/)
 
-🌉 [Hot Metal Campus Press](https://www.hotmetalcampus.com/news-research/stepping-toward-change-stepup-amp-the-world-shoe-fund)
+🌉 [**Hot Metal Campus Press**](https://www.hotmetalcampus.com/news-research/stepping-toward-change-stepup-amp-the-world-shoe-fund)
 
-👣 [World Shoe Fund](https://www.worldshoefund.org/)
+👣 [**World Shoe Fund**](https://www.worldshoefund.org/)
 
 ---
 
