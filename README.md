@@ -12,7 +12,7 @@ Created by [Team StepUp](https://projects.etc.cmu.edu/step-up) @ Carnegie Mellon
 
 This game was developed during a semester-long project with a team of six graduate students, and I served as the **sole programmer** responsible for every gameplay system, feature, and technical decision.
 
-Explore the full project [here](https://projects.etc.cmu.edu/step-up/about)
+Explore the project details [here](https://projects.etc.cmu.edu/step-up/about)
 
 ---
 
@@ -67,7 +67,7 @@ Explore the full project [here](https://projects.etc.cmu.edu/step-up/about)
 
 ## 🌍 Social Impact
 
-StepUp’s mission goes beyond entertainment. It’s a partnership with the **World Shoe Fund**, aimed at tackling preventable diseases through education. Through engaging mini-games and intuitive lessons, the Hygiene Hero Cup game reinforces:
+StepUp’s mission goes beyond entertainment. It’s a partnership with the [**World Shoe Fund**](https://www.worldshoefund.org/), aimed at tackling preventable diseases through education. Through engaging mini-games and intuitive lessons, the Hygiene Hero Cup game reinforces:
 - **UNICEF WASH principles**
 - Importance of wearing protective footwear
 - Foot hygiene and handwashing techniques
@@ -105,7 +105,7 @@ And most importantly—I got to see the game bring joy and education to children
 
 ---
 
-## 📂 Project Structure (Sample)
+## 📂 Project Structure
 
 ```
 Assets/
@@ -128,8 +128,8 @@ Assets/
 
 ## 🙌 Acknowledgments
 
-- The **World Shoe Fund** for their inspiring mission and partnership
-- CMU ETC faculty for guidance and playtesting support
+- The [**World Shoe Fund**](https://www.worldshoefund.org/) for their inspiring mission and partnership
+- [**CMU ETC**](https://www.etc.cmu.edu) faculty for guidance and playtesting support
 - All the kids who played our game—you made it worth building 👶🏿
 
 ---
